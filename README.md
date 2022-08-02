@@ -1,3 +1,3 @@
 # Kubernetes
 
-- DAY(01): [Demo Project]
+- [✔️] 1 > [Introduction]
